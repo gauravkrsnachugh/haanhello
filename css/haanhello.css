@@ -1,0 +1,374 @@
+html {
+  box-sizing: border-box;  
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 0.625em;
+}
+
+.soc {
+  display: block;
+  font-size: 0;
+  list-style: none;
+  margin: 0;
+  padding: 48px;
+  padding: 3.9rem; 
+  margin: -29px;
+}
+
+.footer-find{
+ font-family: "ltc-bodoni-175";
+ font-size: 20pt;
+ color: #111;
+ fill: #111;
+}
+.footer-social {
+text-align: -webkit-center;
+}
+.footer-div {
+    text-align: -webkit-center;
+    margin: -29px;
+	}
+.footer-span {
+    font-family: "ltc-bodoni-175";
+    color: gray;
+    
+	font-size: 13pt;
+    text-align: -webkit-center;
+}
+.footer-link {
+    font-family: "ltc-bodoni-175";
+    color: #111;
+    fill: #111;
+	font-size: 9pt;
+    text-align: -webkit-center;
+}
+
+
+.soc li {
+  display: inline-block;
+  margin: 12px;
+  margin: -0.9px;
+
+}
+
+.soc a, .soc svg {
+  display: block;
+}
+.soc a {
+  position: relative;
+  height: 100px;
+  height: 4.6rem;
+  width: 100px;
+  width: 4.6rem;
+}
+.soc svg {
+  height: 100%;
+  width: 100%;
+}
+.soc em {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: -0.75em;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.icon-1:hover, .icon-2:hover, .icon-3:hover, .icon-4:hover, .icon-5:hover, .icon-6:hover, .icon-7:hover, .icon-8:hover, .icon-9:hover, .icon-10:hover, .icon-11:hover, .icon-12:hover, .icon-13:hover, .icon-14:hover, .icon-15:hover, .icon-16:hover, .icon-17:hover, .icon-18:hover, .icon-19:hover, .icon-20:hover, .icon-21:hover, .icon-22:hover, .icon-23:hover, .icon-24:hover, .icon-25:hover, .icon-26:hover, .icon-27:hover, .icon-28:hover, .icon-29:hover, .icon-30:hover {
+  border-radius: 100%;
+  color: #111;
+  fill: #111;
+  -webkit-transform: scale(0.75);
+          transform: scale(0.75);
+  -webkit-transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
+  transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
+  transition: background-color 0.5s, transform 0.5s ease-out;
+  transition: background-color 0.5s, transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
+}
+
+.icon-1 {
+  color: #111;
+  fill: #111;
+}
+.icon-1:hover {background: #FFFFFF;
+}
+
+.icon-2 {
+  color: #111;
+  fill: #111;
+}
+.icon-2:hover {
+background: #FFFFFF;
+}
+
+.icon-3 {
+  color: #111;
+  fill: #111;
+}
+.icon-3:hover {background: #FFFFFF;
+}
+
+.icon-4 {
+  color: #111;
+  fill: #111;
+}
+.icon-4:hover {
+background: #FFFFFF;
+}
+
+.icon-5 {
+  color: #111;
+  fill: #111;
+}
+.icon-5:hover {
+background: #FFFFFF;
+}
+
+.icon-6 {
+  color: #111;
+  fill: #111;
+}
+.icon-6:hover {
+background: #FFFFFF;
+}
+
+.icon-7 {
+  color: #111;
+  fill: #111;
+}
+.icon-7:hover {
+  background: #FFFFFF;
+}
+
+.icon-8 {
+  color: #111;
+  fill: #111;
+  width: 33px;
+}
+.icon-8:hover {
+background: #FFFFFF;
+}
+
+.icon-9 {
+  color: #111;
+  fill: #111;
+}
+.icon-9:hover {
+background: #FFFFFF;}
+
+.icon-10 {
+  color: #111;
+  fill: #111;
+}
+.icon-10:hover {
+  background: #FFFFFF;
+  
+}
+
+.icon-11 {
+  color: #111;
+  fill: #111;
+}
+.icon-11:hover {
+background: #FFFFFF;
+}
+
+.icon-12 {
+  color: #111;
+  fill: #111;
+}
+.icon-12:hover {
+  background: #FFFFFF;
+}
+
+.icon-13 {
+  color: #111;
+  fill: #111;
+}
+.icon-13:hover {
+  background: #FFFFFF;
+}
+
+.icon-14 {
+  color: #111;
+  fill: #111;
+}
+.icon-14:hover {
+  background: #FFFFFF;
+}
+
+.icon-15 {
+  color: #111;
+  fill: #111;
+}
+.icon-15:hover {
+  background: #FFFFFF;
+}
+
+.icon-16 {
+  color: #111;
+  fill: #111;
+}
+.icon-16:hover {
+  background: #FFFFFF;
+}
+
+.icon-17 {
+  color: #111;
+  fill: #111;
+}
+.icon-17:hover {
+  background: #FFFFFF;
+}
+
+.icon-18 {
+  color: #111;
+  fill: #111;
+}
+.icon-18:hover {
+  background: #FFFFFF;
+}
+
+.icon-19 {
+  color: #111;
+  fill: #111;
+}
+.icon-19:hover {
+  background: #FFFFFF;
+}
+
+.icon-20 {
+  color: #111;
+  fill: #111;
+}
+.icon-20:hover {
+  background: #FFFFFF;
+}
+
+.icon-21 {
+  color: #111;
+  fill: #111;
+}
+.icon-21:hover {
+  background: #FFFFFF;
+}
+
+.icon-22 {
+  color: #111;
+  fill: #111;
+}
+.icon-22:hover {
+  background: #FFFFFF;
+}
+
+.icon-23 {
+  color: #111;
+  fill: #111;
+}
+.icon-23:hover {
+  background: #FFFFFF;
+}
+
+.icon-24 {
+  color: #111;
+  fill: #111;
+}
+.icon-24:hover {
+  background: #FFFFFF;
+}
+
+.icon-25 {
+  color: #111;
+  fill: #111;
+}
+.icon-25:hover {
+  background: #FFFFFF;
+}
+
+.icon-26 {
+  color: #111;
+  fill: #111;
+}
+.icon-26:hover {
+  background: #FFFFFF;
+}
+
+.icon-27 {
+  color: #111;
+  fill: #111;
+}
+.icon-27:hover {
+  background: #FFFFFF;
+}
+
+.icon-28 {
+  color: #111;
+  fill: #111;
+}
+.icon-28:hover {
+  background: #FFFFFF;
+}
+
+.icon-29 {
+  color: #111;
+  fill: #111;
+}
+.icon-29:hover {
+  background: #FFFFFF;
+}
+
+.icon-30 {
+  color: #111;
+  fill: #111;
+}
+.icon-30:hover {
+  background: #FFFFFF;
+}
+
+
+.banner0{
+background: #111;
+}
+.banner1{
+color:#FFFFFF;
+background: #111;
+font-family: "ltc-bodoni-175";
+    font-size: x-large;
+    padding: 0px 63px;
+}
+
+.haanhello-banner{
+    padding: 0px 446px;
+}
+
+.haanhello-shop{
+   padding: 173px 591px;
+}
+
+.haanhello-banner-group{
+padding: 1px 16px;
+}
+
+.button{
+
+background-color: gray;
+    border: none;
+    color: white;
+    padding: 17px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    letter-spacing: .1em;
+    font-weight: 100;
+    font-family: "proxima-nova";
+	border: 2px solid #111;
+	}
