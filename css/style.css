@@ -7,6 +7,7 @@
 
 .soc {
   display: block;
+      float: right;
   font-size: 0;
   list-style: none;
   margin: 0;
