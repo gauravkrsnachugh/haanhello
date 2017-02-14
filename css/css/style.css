@@ -5,91 +5,6 @@
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 
-.soc {
-  display: block;
-  font-size: 0;
-  list-style: none;
-  margin: 0;
-  padding: 48px;
-  padding: 3.9rem; 
-  margin: -29px;
-      padding: 3px 0px;
-    float: right;
-}
-
-.footer-find{
- font-family: "ltc-bodoni-175";
- font-size: 20pt;
- color: #111;
- fill: #111;
-}
-.footer-social {
-text-align: -webkit-center;
-}
-.footer-div {
-    text-align: -webkit-center;
-    margin: -29px;
-	}
-.footer-span {
-    font-family: "ltc-bodoni-175";
-    color: gray;
-    
-	font-size: 13pt;
-    text-align: -webkit-center;
-}
-.footer-link {
-    font-family: "ltc-bodoni-175";
-    color: #111;
-    fill: #111;
-	font-size: 9pt;
-    text-align: -webkit-center;
-}
-
-
-.soc li {
-  display: inline-block;
-  margin: 12px;
-  margin: -0.9px;
-
-}
-
-.soc a, .soc svg {
-  display: block;
-}
-.soc a {
-  position: relative;
-  height: 100px;
-  height: 4.6rem;
-  width: 100px;
-  width: 4.6rem;
-}
-.soc svg {
-  height: 100%;
-  width: 100%;
-}
-.soc em {
-  font-size: 14px;
-  line-height: 1.5;
-  margin-top: -0.75em;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-
-.icon-1:hover, .icon-2:hover, .icon-3:hover, .icon-4:hover, .icon-5:hover, .icon-6:hover, .icon-7:hover, .icon-8:hover, .icon-9:hover, .icon-10:hover, .icon-11:hover, .icon-12:hover, .icon-13:hover, .icon-14:hover, .icon-15:hover, .icon-16:hover, .icon-17:hover, .icon-18:hover, .icon-19:hover, .icon-20:hover, .icon-21:hover, .icon-22:hover, .icon-23:hover, .icon-24:hover, .icon-25:hover, .icon-26:hover, .icon-27:hover, .icon-28:hover, .icon-29:hover, .icon-30:hover {
-  border-radius: 100%;
-  color: #111;
-  fill: #111;
-  -webkit-transform: scale(0.75);
-          transform: scale(0.75);
-  -webkit-transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
-  transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
-  transition: background-color 0.5s, transform 0.5s ease-out;
-  transition: background-color 0.5s, transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
-}
 
 
 /*-- Reset-Code --*/
@@ -1366,28 +1281,22 @@ ul.social-icons li a.youtube:hover {
 /*-- Footer --*/
 
 .footer {
-	padding: 5px 0;
-	background-color: #FFFFF;
+	padding: 50px 0;
+	background-color: #000;
 	text-align: center;
 }
 
 .copyright p {
-	color: #111;
-	font-family: "ltc-bodoni-175";
-	font-size: 13pt;
- 
+	color: #FFF;
 }
 
 .copyright a {
-	
-	font-family: "ltc-bodoni-175";
-	font-size: 13pt;
- 
+	color: #CCC;
+	font-weight: 700;
 }
 
 .copyright a:hover {
-	color: #111;
-	
+	color: #FFF;
 }
 
 /*-- //Footer --*/
